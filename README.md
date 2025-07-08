@@ -3,6 +3,8 @@ Este projeto é um sistema de gerenciamento de restaurantes baseado em linha de 
 
 📋 Funcionalidades (O que nosso programa faz )
 
+
+
 ✅ Cadastrar um novo restaurante
 
 ✅ Listar restaurantes cadastrados
@@ -12,6 +14,9 @@ Este projeto é um sistema de gerenciamento de restaurantes baseado em linha de 
 ✅ Interface é via terminal
 
 ✅ Estrutura organizada com funções reutilizáveis
+
+
+
 
 
 🧠 Conceitos Aplicados
@@ -30,7 +35,7 @@ Docstrings para documentação de funções
 Estrutura do Código
 O que faz nossas funções do codigo.
 
-exibir_nome_do_programa()	         -  Exibe o título estilizado do programa
+exibir_nome_do_programa() Exibe o título estilizado do programa
 exibir_opcoes()	                   -  Mostra o menu principal com as opções disponíveis
 cadastrar_novo_restaurante()       -  Permite ao usuário cadastrar um novo restaurante
 listas_restaurantes()	             -  Lista todos os restaurantes cadastrados, com nome, categoria e status

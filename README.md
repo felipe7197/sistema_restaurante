@@ -35,14 +35,22 @@ Docstrings para documentação de funções
 Estrutura do Código
 O que faz nossas funções do codigo.
 
-exibir_nome_do_programa() Exibe o título estilizado do programa
+exibir_nome_do_programa()          -   Exibe o título estilizado do programa
+
 exibir_opcoes()	                   -  Mostra o menu principal com as opções disponíveis
+
 cadastrar_novo_restaurante()       -  Permite ao usuário cadastrar um novo restaurante
+
 listas_restaurantes()	             -  Lista todos os restaurantes cadastrados, com nome, categoria e status
+
 alternar_estado_do_restaurante()	 -  Alterna o status de um restaurante (ativo ↔ desativado)
+
 escolher_opcao()	                 -  Lê a opção do usuário e direciona para a função correspondente
+
 voltar_menu_principal()	           -  Retorna ao menu após a conclusão de uma operação
+
 finalizar_app()                    -  Encerra a execução do programa
+
 main()	                           -  Função principal que inicia o sistema
 
 

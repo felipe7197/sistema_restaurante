@@ -2,6 +2,7 @@
 Este projeto é um sistema de gerenciamento de restaurantes baseado em linha de comando (CLI), desenvolvido com a linguagem Python. Ele permite cadastrar, listar e ativar/desativar restaurantes de forma interativa.
 
 📋 Funcionalidades (O que nosso programa faz )
+
 ✅ Cadastrar um novo restaurante
 
 ✅ Listar restaurantes cadastrados
